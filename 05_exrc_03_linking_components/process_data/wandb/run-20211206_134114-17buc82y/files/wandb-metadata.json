@@ -1,0 +1,31 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2021-12-06T19:41:16.793888",
+    "startedAt": "2021-12-06T19:41:14.753841",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "iris.csv:latest",
+        "--artifact_name",
+        "clean_data.csv",
+        "--artifact_type",
+        "processed_data",
+        "--artifact_description",
+        "Processed Iris dataset"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "05_exrc_03_linking_components/process_data/run.py",
+    "git": {
+        "remote": "https://github.com/jobquiroz/mlflow.git",
+        "commit": "75894101bfc1a13b912e894ca733b08a57d76135"
+    },
+    "email": "jobquiroz@hotmail.com",
+    "root": "/Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/mlflow",
+    "host": "Jobs-MacBook-Pro.local",
+    "username": "jobquiroz",
+    "executable": "/Users/jobquiroz/opt/anaconda3/envs/mlflow-f50aa1893150a3af2498ee43d8e7081306342476/bin/python"
+}

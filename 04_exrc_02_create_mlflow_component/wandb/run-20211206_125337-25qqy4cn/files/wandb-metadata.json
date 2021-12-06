@@ -1,0 +1,31 @@
+{
+    "os": "macOS-11.3.1-x86_64-i386-64bit",
+    "python": "3.10.0",
+    "heartbeatAt": "2021-12-06T18:53:39.502295",
+    "startedAt": "2021-12-06T18:53:37.408353",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://raw.githubusercontent.com/scikit-learn/scikit-learn/4dfdfb4e1bb3719628753a4ece995a1b2fa5312a/sklearn/datasets/data/iris.csv",
+        "--artifact_name",
+        "iris",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "This data sets consists of 3 different types of irises\u2019 (Setosa, Versicolour, and Virginica) petal and sepal length"
+    ],
+    "state": "running",
+    "program": "/Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/mlflow/04_exrc_02_create_mlflow_component/download_data.py",
+    "codePath": "04_exrc_02_create_mlflow_component/download_data.py",
+    "git": {
+        "remote": "https://github.com/jobquiroz/mlflow.git",
+        "commit": "2968ef0b8666f2769dd4e03899a57d565457faec"
+    },
+    "email": "jobquiroz@hotmail.com",
+    "root": "/Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/mlflow",
+    "host": "Jobs-MacBook-Pro.local",
+    "username": "jobquiroz",
+    "executable": "/Users/jobquiroz/opt/anaconda3/envs/mlflow-2977b4bae8cdeabdee324cd5f557beb5de25378c/bin/python"
+}

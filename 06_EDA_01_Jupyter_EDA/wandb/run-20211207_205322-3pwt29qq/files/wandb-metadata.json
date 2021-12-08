@@ -1,0 +1,24 @@
+{
+    "os": "macOS-11.3.1-x86_64-i386-64bit",
+    "python": "3.9.7",
+    "heartbeatAt": "2021-12-08T02:53:24.589037",
+    "startedAt": "2021-12-08T02:53:22.317110",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/Users/jobquiroz/Library/Jupyter/runtime/kernel-f87417da-5f2e-46b4-9ca7-e471f0303c59.json"
+    ],
+    "state": "running",
+    "program": "EDA.ipynb",
+    "root": "/Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/mlflow",
+    "git": {
+        "remote": "https://github.com/jobquiroz/mlflow.git",
+        "commit": "7c50321526ea1e7ffe1742428beb584087caa999"
+    },
+    "email": "jobquiroz@hotmail.com",
+    "host": "Jobs-MacBook-Pro.local",
+    "username": "jobquiroz",
+    "executable": "/Users/jobquiroz/opt/anaconda3/envs/mlflow-51a201f2a8eac0601d78afdf58767b0a4aa0f41a/bin/python"
+}

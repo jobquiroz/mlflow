@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/mlflow/06_EDA_01_Jupyter_EDA/mlruns/0/e34a006fa19b4883a8d4c5fc8fbae984/artifacts
+end_time: 1638932207495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e34a006fa19b4883a8d4c5fc8fbae984
+run_uuid: e34a006fa19b4883a8d4c5fc8fbae984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1638931592045
+status: 4
+tags: []
+user_id: jobquiroz

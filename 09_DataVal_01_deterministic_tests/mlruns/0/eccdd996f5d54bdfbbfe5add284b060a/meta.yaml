@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/mlflow/09_DataVal_01_deterministic_tests/mlruns/0/eccdd996f5d54bdfbbfe5add284b060a/artifacts
+end_time: 1639106850907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: eccdd996f5d54bdfbbfe5add284b060a
+run_uuid: eccdd996f5d54bdfbbfe5add284b060a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1639106674629
+status: 3
+tags: []
+user_id: jobquiroz

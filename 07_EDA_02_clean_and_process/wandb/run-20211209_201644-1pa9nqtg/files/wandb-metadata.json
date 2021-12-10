@@ -1,0 +1,31 @@
+{
+    "os": "macOS-11.3.1-x86_64-i386-64bit",
+    "python": "3.9.7",
+    "heartbeatAt": "2021-12-10T02:16:46.997774",
+    "startedAt": "2021-12-10T02:16:44.855799",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "exercise_4/genres_mod.parquet:latest",
+        "--artifact_name",
+        "preprocessed_data.csv",
+        "--artifact_type",
+        "processed_data",
+        "--artifact_description",
+        "Clean and augmented data"
+    ],
+    "state": "running",
+    "program": "/Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/mlflow/07_EDA_02_clean_and_process/run.py",
+    "codePath": "07_EDA_02_clean_and_process/run.py",
+    "git": {
+        "remote": "https://github.com/jobquiroz/mlflow.git",
+        "commit": "c14059cb8f603a8853dcbe8f55d8e28ecaa30f63"
+    },
+    "email": "jobquiroz@hotmail.com",
+    "root": "/Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/mlflow",
+    "host": "Jobs-MacBook-Pro.local",
+    "username": "jobquiroz",
+    "executable": "/Users/jobquiroz/opt/anaconda3/envs/mlflow-9d89d2a9d74544a6a6ca9747ccb3ca99a3ee6c1d/bin/python"
+}

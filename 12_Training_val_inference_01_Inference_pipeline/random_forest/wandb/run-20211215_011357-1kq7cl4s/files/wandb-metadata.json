@@ -1,0 +1,27 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2021-12-15T07:13:59.886381",
+    "startedAt": "2021-12-15T07:13:57.082726",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "exercise_6/data_train.csv:latest",
+        "--model_config",
+        "/Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/mlflow/12_Training_val_inference_01_Inference_pipeline/outputs/2021-12-15/01-11-31/random_forest_config.json"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "12_Training_val_inference_01_Inference_pipeline/random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/jobquiroz/mlflow.git",
+        "commit": "bac47c4b82494a1192463539949ea3120b3509d3"
+    },
+    "email": "jobquiroz@hotmail.com",
+    "root": "/Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/mlflow",
+    "host": "Jobs-MacBook-Pro.local",
+    "username": "jobquiroz",
+    "executable": "/Users/jobquiroz/opt/anaconda3/envs/mlflow-04dc18e87776aad288f8cabb3fd2dc65eef7059f/bin/python"
+}

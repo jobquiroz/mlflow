@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/mlflow/11_DataVal_03_pytest_options/mlruns/0/4ba275ec3c7d43b9aae1f73c01c965d4/artifacts
+end_time: 1639549492762
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 4ba275ec3c7d43b9aae1f73c01c965d4
+run_uuid: 4ba275ec3c7d43b9aae1f73c01c965d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1639549470109
+status: 3
+tags: []
+user_id: jobquiroz

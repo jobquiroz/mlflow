@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/mlflow/14_Training_val_inferenfe_03_Export_model/mlruns/0/66360f071b074cbe8da179503ff77e5a/artifacts
+end_time: 1640579561656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 66360f071b074cbe8da179503ff77e5a
+run_uuid: 66360f071b074cbe8da179503ff77e5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1640579380312
+status: 3
+tags: []
+user_id: jobquiroz

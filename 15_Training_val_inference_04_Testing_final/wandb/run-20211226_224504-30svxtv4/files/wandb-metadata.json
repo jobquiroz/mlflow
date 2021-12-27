@@ -1,0 +1,27 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2021-12-27T04:45:06.618764",
+    "startedAt": "2021-12-27T04:45:04.495722",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "exercise_12/model_export:latest",
+        "--test_data",
+        "exercise_6/data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "15_Training_val_inference_04_Testing_final/run.py",
+    "git": {
+        "remote": "https://github.com/jobquiroz/mlflow.git",
+        "commit": "6fe7a6cf42a016bb7d6f63bea161d824b3f6206f"
+    },
+    "email": "jobquiroz@hotmail.com",
+    "root": "/Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/mlflow",
+    "host": "Jobs-MacBook-Pro.local",
+    "username": "jobquiroz",
+    "executable": "/Users/jobquiroz/opt/anaconda3/envs/mlflow-9ad98997f01f10ca95d41cc160bcad3e8dac16f6/bin/python"
+}

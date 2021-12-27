@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobquiroz/OneDrive/MachineLearningChampion/10_UdacityMLOps/mlflow/13_Training_val_inference_02_Validate_and_choose/mlruns/0/e9e119240f474ac5b4cb1f1d5a7dadfa/artifacts
+end_time: 1640577829534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e9e119240f474ac5b4cb1f1d5a7dadfa
+run_uuid: e9e119240f474ac5b4cb1f1d5a7dadfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1640577799474
+status: 3
+tags: []
+user_id: jobquiroz
